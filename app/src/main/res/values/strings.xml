@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LabWave</string>
+    <string name="button_delete_task">X</string>
+    <string name="add_new_task">Додати завдання</string>
+</resources>
